@@ -1,0 +1,10 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    font-size: 50px;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
